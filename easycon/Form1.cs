@@ -61,5 +61,10 @@ namespace easycon
         {
 
         }
+
+        public void aaa()
+        {
+            Console.WriteLine("dddfrw");
+        }
     }
 }
