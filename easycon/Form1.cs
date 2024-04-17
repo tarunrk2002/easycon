@@ -66,5 +66,9 @@ namespace easycon
         {
             Console.WriteLine("dddfrwdsdsd");
         }
+
+        public void newww(){
+        
+        }
     }
 }
