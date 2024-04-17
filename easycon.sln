@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "easycon", "easycon\easycon.csproj", "{80D5BB10-364C-43B2-AB23-D13A0E4EC4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pract", "pract\pract.csproj", "{91A0D736-BB6C-456C-BD39-A7649E1D0633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D5BB10-364C-43B2-AB23-D13A0E4EC4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D5BB10-364C-43B2-AB23-D13A0E4EC4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D5BB10-364C-43B2-AB23-D13A0E4EC4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D5BB10-364C-43B2-AB23-D13A0E4EC4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A0D736-BB6C-456C-BD39-A7649E1D0633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A0D736-BB6C-456C-BD39-A7649E1D0633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A0D736-BB6C-456C-BD39-A7649E1D0633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A0D736-BB6C-456C-BD39-A7649E1D0633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65233017-381E-419F-8D44-AD110B1C8B56}
+	EndGlobalSection
+EndGlobal
